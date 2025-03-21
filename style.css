@@ -1,0 +1,39 @@
+.h1{
+   border: 5px solid red;
+   background-color: aqua;
+   text-align: center;
+}
+.span1{
+    background-color: yellow;
+}
+.i{
+    color: red;
+}
+.p1{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+.img1{
+    width: 1500px;
+}
+.img2{
+    width: 1500px;
+}
+.p2{
+    text-align: center;
+    color: green;
+    background-color: yellow;
+}
+.text1{
+    width: 800px;
+}
+.p3{
+    color: green;
+}
+.p4{
+    color: green;
+}
+.button1{
+    background-color: aqua;
+}
